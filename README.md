@@ -26,4 +26,4 @@ Stretch goals
 * Have cards face down
 * Cards are in a random order 
 * Cards will turn back over in a few seconds if they do not match 
-* player can only pick two cards at a time
+* Player can only pick two cards at a time
